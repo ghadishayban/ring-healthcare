@@ -1,6 +1,6 @@
-# ring-healthcare2
+# ring-healthcare
 
-A Clojure library designed to ... well, that part is up to you.
+HL7 MLLP endpoints as ring requests
 
 ## Usage
 
@@ -8,6 +8,6 @@ FIXME
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 Ghadi Shayban
 
 Distributed under the Eclipse Public License, the same as Clojure.
